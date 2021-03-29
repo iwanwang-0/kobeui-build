@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>admin &#8211; Coin</title>
+	<title>admin &#8211; shabushabu.finance</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>The Innovative Defi Engine Of The Future</description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/03/cropped-Attachment_1614763013-e1614795613116-32x32.png</url>
+	<title>admin &#8211; shabushabu.finance</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>./../../../2021/03/02/hello-world/index.html</link>
